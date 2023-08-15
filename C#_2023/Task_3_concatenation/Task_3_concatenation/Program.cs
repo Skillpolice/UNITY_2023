@@ -17,11 +17,11 @@ namespace Task_3_concatenation
             //Console.WriteLine(_message);
 
 
-            //int _age = 15;
-            //Console.WriteLine("Привет, тебе завтра исплниться: " + (_age + 1));
+            int _age = 15;
+            Console.WriteLine("Привет, тебе завтра исплниться: " + (_age + 1));
 
 
-            int _age = 30;
+            int _age1 = 30;
             string _name = "Denis";
 
             Console.WriteLine("Ваше именя: " + _name + " вам " + _age);
