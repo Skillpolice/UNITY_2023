@@ -43,22 +43,12 @@ namespace Task_7_TEST_Work
             //Console.Write("сколько еды вам нужно ? ");
             //_food = Convert.ToInt32(Console.ReadLine());
 
-
             //_isAbleToPay = _money >= _food * _foodPrice;
             //_food *= Convert.ToInt32(_isAbleToPay);
-
             //_money -= _food * _foodPrice;
 
             //Console.WriteLine($"У вас в сумкe {_food} еды и {_money} монет !");
 
-            //if (_money <= 0)
-            //{
-            //    Console.WriteLine("Извините у вас не достаточно монет");
-            //}
-            //else
-            //{
-            //    Console.WriteLine($"У вас в сумку {_food} еды и {_money} монет !");
-            //}
 
 
 
